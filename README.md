@@ -56,6 +56,10 @@ I designed and ran the full TCAD simulation campaign (device build, thermal cali
 
 TCAD device simulation (Synopsys Sentaurus) · semiconductor reliability physics (NBTI/PBTI, Arrhenius kinetics) · coupled electro-thermal simulation · Python-based data extraction and analysis · scientific writing and peer review response.
 
----
+## Simulation deck format (illustrative)
 
-*This repository contains only a summary of published-pending results. Simulation decks, raw data, and unpublished manuscript text are not included while the manuscript is under review.*
+[`decks/example_sde.cmd`](decks/example_sde.cmd) and [`decks/example_sdevice.cmd`](decks/example_sdevice.cmd) show the general shape of a Sentaurus Structure Editor / Device command file. **All geometry, doping, and material parameters in these two files are generic placeholders** — they are not the decks used to produce any result in this repository or in the manuscript, and do not reflect the actual device design.
+
+## License
+
+See [LICENSE](LICENSE). All rights reserved — this repository is shared for demonstration purposes only (e.g. scholarship/fellowship review) and may not be reproduced, redistributed, or reused without the author's written permission. The associated manuscript is under peer review; simulation decks, raw data, and manuscript text are not included.
