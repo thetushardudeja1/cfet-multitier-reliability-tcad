@@ -77,10 +77,6 @@ I designed and ran the full TCAD simulation campaign (device build, thermal cali
 
 **Skills demonstrated:** TCAD device simulation (Synopsys Sentaurus), semiconductor reliability physics (NBTI/PBTI, Arrhenius kinetics), coupled electro-thermal simulation, Python-based data extraction and analysis, scientific writing and peer review response.
 
-## 7. Awards and recognition
-
-- **Top 3 winner, 2026 IEEE EDS TCAD Hackathon** (IEEE Electron Devices Society), selected from over 500 registrations and about 60 submissions worldwide. [Announcement (LinkedIn)](https://lnkd.in/p/gbz3SE6b) · [Official confirmation](https://drive.google.com/file/d/1Ork0xYC8Jxg_C6i7O5Jz-Xi5lJ0y0SwD/view?usp=sharing)
-
 ## License
 
 See [LICENSE](LICENSE). All rights reserved. This repository is shared for demonstration purposes only (e.g. scholarship/fellowship review) and may not be reproduced, redistributed, or reused without the author's written permission. The associated manuscript is under peer review; simulation decks, raw data, and manuscript text are not included.
