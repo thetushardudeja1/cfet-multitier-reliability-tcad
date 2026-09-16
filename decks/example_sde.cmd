@@ -4,6 +4,11 @@
 # figure or result in this repository or the associated manuscript. It is
 # provided only to show the general shape of a Sentaurus Structure Editor
 # (SDE) command file for readers unfamiliar with the TCAD workflow.
+#
+# The associated research is under submission/review at a peer-reviewed
+# journal. The actual simulation decks, calibrated device parameters, and
+# raw data are unpublished intellectual property of the author and cannot
+# be made public until the manuscript is published.
 # =============================================================================
 
 (sde:clear)
